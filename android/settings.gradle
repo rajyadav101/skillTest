@@ -1,0 +1,3 @@
+rootProject.name = 'mapDirection'
+
+include ':app'
